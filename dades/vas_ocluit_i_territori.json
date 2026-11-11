@@ -1,0 +1,1470 @@
+{
+ "sub-stroke0001": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 264.1
+ },
+ "sub-stroke0002": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 247.1
+ },
+ "sub-stroke0003": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm; gana A1A2 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 221.0
+ },
+ "sub-stroke0004": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 241.5
+ },
+ "sub-stroke0005": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 211.0
+ },
+ "sub-stroke0006": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 234.2
+ },
+ "sub-stroke0007": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 319.2
+ },
+ "sub-stroke0008": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 344.3
+ },
+ "sub-stroke0009": {
+  "vas": "L-ICA-C6-C7",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 354.1
+ },
+ "sub-stroke0010": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 225.1
+ },
+ "sub-stroke0011": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 234.0
+ },
+ "sub-stroke0012": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 234.1
+ },
+ "sub-stroke0013": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 206.4
+ },
+ "sub-stroke0014": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 242.1
+ },
+ "sub-stroke0016": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 100.5
+ },
+ "sub-stroke0017": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 300.5
+ },
+ "sub-stroke0019": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 385.2
+ },
+ "sub-stroke0020": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 240.3
+ },
+ "sub-stroke0021": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 198.5
+ },
+ "sub-stroke0022": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 269.4
+ },
+ "sub-stroke0025": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 278.4
+ },
+ "sub-stroke0026": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 249.1
+ },
+ "sub-stroke0027": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 285.2
+ },
+ "sub-stroke0028": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 245.4
+ },
+ "sub-stroke0030": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 280.1
+ },
+ "sub-stroke0033": {
+  "vas": "R-A3",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "medio",
+  "territoris": [
+   "ACA der"
+  ],
+  "ml": 83.5
+ },
+ "sub-stroke0036": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 248.7
+ },
+ "sub-stroke0037": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 253.2
+ },
+ "sub-stroke0038": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 209.7
+ },
+ "sub-stroke0040": {
+  "vas": "R-ICA-C6-C7",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 270.1
+ },
+ "sub-stroke0043": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 229.9
+ },
+ "sub-stroke0045": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 232.8
+ },
+ "sub-stroke0047": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 239.9
+ },
+ "sub-stroke0048": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 235.6
+ },
+ "sub-stroke0049": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 277.2
+ },
+ "sub-stroke0052": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 257.3
+ },
+ "sub-stroke0053": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 200.6
+ },
+ "sub-stroke0054": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 260.6
+ },
+ "sub-stroke0055": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 251.3
+ },
+ "sub-stroke0057": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 192.0
+ },
+ "sub-stroke0062": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 267.3
+ },
+ "sub-stroke0066": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 246.0
+ },
+ "sub-stroke0068": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 228.9
+ },
+ "sub-stroke0070": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 304.7
+ },
+ "sub-stroke0071": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 10 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 236.4
+ },
+ "sub-stroke0073": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 217.3
+ },
+ "sub-stroke0074": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 274.3
+ },
+ "sub-stroke0075": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 267.9
+ },
+ "sub-stroke0076": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 275.2
+ },
+ "sub-stroke0077": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 331.1
+ },
+ "sub-stroke0078": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 376.9
+ },
+ "sub-stroke0079": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 198.7
+ },
+ "sub-stroke0080": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 338.1
+ },
+ "sub-stroke0081": {
+  "vas": "R-P1P2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "PCA der"
+  ],
+  "ml": 67.8
+ },
+ "sub-stroke0082": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 254.5
+ },
+ "sub-stroke0083": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 196.4
+ },
+ "sub-stroke0084": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 210.5
+ },
+ "sub-stroke0085": {
+  "vas": "L-A3",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq"
+  ],
+  "ml": 67.9
+ },
+ "sub-stroke0086": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 188.9
+ },
+ "sub-stroke0087": {
+  "vas": "L-ICA-C6-C7",
+  "regla": "mas voxeles a <= 5 mm; gana A1A2 pero ICA-C6-C7 < 0.3 del contralateral -> ICA-C6-C7",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 286.6
+ },
+ "sub-stroke0088": {
+  "vas": "R-A1A2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "medio",
+  "territoris": [
+   "ACA der"
+  ],
+  "ml": 72.6
+ },
+ "sub-stroke0089": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 167.7
+ },
+ "sub-stroke0090": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 250.4
+ },
+ "sub-stroke0091": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 231.7
+ },
+ "sub-stroke0092": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 198.0
+ },
+ "sub-stroke0093": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 216.7
+ },
+ "sub-stroke0094": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 238.6
+ },
+ "sub-stroke0095": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 220.0
+ },
+ "sub-stroke0096": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 217.6
+ },
+ "sub-stroke0097": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 243.8
+ },
+ "sub-stroke0098": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 289.1
+ },
+ "sub-stroke0099": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 240.8
+ },
+ "sub-stroke0100": {
+  "vas": null,
+  "regla": "sin lvo-msk",
+  "costat_trombe": null,
+  "territoris": [],
+  "ml": 0.0
+ },
+ "sub-stroke0101": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 239.6
+ },
+ "sub-stroke0102": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 194.5
+ },
+ "sub-stroke0103": {
+  "vas": "L-A3",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq"
+  ],
+  "ml": 78.2
+ },
+ "sub-stroke0104": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 229.5
+ },
+ "sub-stroke0105": {
+  "vas": "BA",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "medio",
+  "territoris": [
+   "PCA izq",
+   "PCA der",
+   "fosa post izq",
+   "fosa post der"
+  ],
+  "ml": 228.3
+ },
+ "sub-stroke0106": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero ICA-C1-C5 < 0.3 del contralateral -> ICA-C1-C5",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 337.0
+ },
+ "sub-stroke0107": {
+  "vas": "L-ICA-C6-C7",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 371.7
+ },
+ "sub-stroke0108": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 201.0
+ },
+ "sub-stroke0109": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 265.7
+ },
+ "sub-stroke0110": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 216.7
+ },
+ "sub-stroke0111": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 239.9
+ },
+ "sub-stroke0112": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 220.5
+ },
+ "sub-stroke0113": {
+  "vas": "L-ICA-C6-C7",
+  "regla": "mas voxeles a <= 5 mm; gana A1A2 pero ICA-C6-C7 < 0.3 del contralateral -> ICA-C6-C7",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 272.7
+ },
+ "sub-stroke0114": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 262.7
+ },
+ "sub-stroke0115": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 252.7
+ },
+ "sub-stroke0116": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 344.3
+ },
+ "sub-stroke0117": {
+  "vas": "L-P1P2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "PCA izq"
+  ],
+  "ml": 82.2
+ },
+ "sub-stroke0118": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 392.5
+ },
+ "sub-stroke0119": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 220.5
+ },
+ "sub-stroke0133": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm; gana A1A2 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 276.2
+ },
+ "sub-stroke0134": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 233.1
+ },
+ "sub-stroke0135": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm; gana A1A2 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 298.1
+ },
+ "sub-stroke0136": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 228.6
+ },
+ "sub-stroke0137": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 282.2
+ },
+ "sub-stroke0138": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 350.5
+ },
+ "sub-stroke0139": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 248.9
+ },
+ "sub-stroke0140": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 242.6
+ },
+ "sub-stroke0141": {
+  "vas": null,
+  "regla": "sin lvo-msk",
+  "costat_trombe": null,
+  "territoris": [],
+  "ml": 0.0
+ },
+ "sub-stroke0142": {
+  "vas": "BA",
+  "regla": "mas voxeles a <= 10 mm",
+  "costat_trombe": "medio",
+  "territoris": [
+   "PCA izq",
+   "PCA der",
+   "fosa post izq",
+   "fosa post der"
+  ],
+  "ml": 276.0
+ },
+ "sub-stroke0143": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 300.4
+ },
+ "sub-stroke0144": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 309.3
+ },
+ "sub-stroke0145": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 358.3
+ },
+ "sub-stroke0146": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 276.3
+ },
+ "sub-stroke0147": {
+  "vas": null,
+  "regla": "sin lvo-msk",
+  "costat_trombe": null,
+  "territoris": [],
+  "ml": 0.0
+ },
+ "sub-stroke0148": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 255.5
+ },
+ "sub-stroke0149": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 259.1
+ },
+ "sub-stroke0150": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 259.4
+ },
+ "sub-stroke0151": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 322.8
+ },
+ "sub-stroke0152": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 224.8
+ },
+ "sub-stroke0153": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 287.0
+ },
+ "sub-stroke0154": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 252.7
+ },
+ "sub-stroke0155": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 215.4
+ },
+ "sub-stroke0156": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 223.8
+ },
+ "sub-stroke0157": {
+  "vas": "L-P1P2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "PCA izq"
+  ],
+  "ml": 85.8
+ },
+ "sub-stroke0158": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 233.7
+ },
+ "sub-stroke0159": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 227.3
+ },
+ "sub-stroke0161": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 342.6
+ },
+ "sub-stroke0162": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 230.9
+ },
+ "sub-stroke0163": {
+  "vas": null,
+  "regla": "sin lvo-msk",
+  "costat_trombe": null,
+  "territoris": [],
+  "ml": 0.0
+ },
+ "sub-stroke0164": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 243.6
+ },
+ "sub-stroke0165": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "mas voxeles a <= 5 mm; gana M2 pero ICA-C1-C5 < 0.3 del contralateral -> ICA-C1-C5",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 318.3
+ },
+ "sub-stroke0166": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 356.7
+ },
+ "sub-stroke0167": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 247.9
+ },
+ "sub-stroke0168": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 240.2
+ },
+ "sub-stroke0169": {
+  "vas": "R-ICA-C1-C5",
+  "regla": "bajo la basilar sin contraste: ICA cervical",
+  "costat_trombe": "R",
+  "territoris": [
+   "ACA der",
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 348.4
+ },
+ "sub-stroke0170": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 284.1
+ },
+ "sub-stroke0171": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 240.4
+ },
+ "sub-stroke0172": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 234.3
+ },
+ "sub-stroke0173": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 242.9
+ },
+ "sub-stroke0174": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 204.0
+ },
+ "sub-stroke0175": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 238.7
+ },
+ "sub-stroke0176": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 303.1
+ },
+ "sub-stroke0177": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 276.3
+ },
+ "sub-stroke0178": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 231.6
+ },
+ "sub-stroke0179": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm; gana ICA-C6-C7 pero M1 < 0.3 del contralateral -> M1",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 247.8
+ },
+ "sub-stroke0180": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 217.5
+ },
+ "sub-stroke0181": {
+  "vas": "BA",
+  "regla": "mas voxeles a <= 15 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "PCA izq",
+   "PCA der",
+   "fosa post izq",
+   "fosa post der"
+  ],
+  "ml": 327.7
+ },
+ "sub-stroke0182": {
+  "vas": "L-ICA-C6-C7",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 382.6
+ },
+ "sub-stroke0183": {
+  "vas": "L-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq"
+  ],
+  "ml": 244.1
+ },
+ "sub-stroke0184": {
+  "vas": "L-ICA-C1-C5",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "ACA izq",
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 269.4
+ },
+ "sub-stroke0185": {
+  "vas": "BA",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "medio",
+  "territoris": [
+   "PCA izq",
+   "PCA der",
+   "fosa post izq",
+   "fosa post der"
+  ],
+  "ml": 250.0
+ },
+ "sub-stroke0186": {
+  "vas": "L-P1P2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "PCA izq"
+  ],
+  "ml": 82.6
+ },
+ "sub-stroke0187": {
+  "vas": "R-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der",
+   "profundo der"
+  ],
+  "ml": 247.6
+ },
+ "sub-stroke0188": {
+  "vas": "R-M2",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "R",
+  "territoris": [
+   "MCA der"
+  ],
+  "ml": 229.2
+ },
+ "sub-stroke0189": {
+  "vas": "L-M1",
+  "regla": "mas voxeles a <= 5 mm",
+  "costat_trombe": "L",
+  "territoris": [
+   "MCA izq",
+   "profundo izq"
+  ],
+  "ml": 275.8
+ }
+}
